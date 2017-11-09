@@ -1,3 +1,5 @@
+'use strict';
+
 // Module dependencies
 const mongoose = require('mongoose'),
       dbConfig = require('./configLoader').databaseConfig,

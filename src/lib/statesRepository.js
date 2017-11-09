@@ -1,3 +1,4 @@
+'use strict';
 const mongoose = require('mongoose'),
       Schema = mongoose.Schema,
       State = require('../models/state');

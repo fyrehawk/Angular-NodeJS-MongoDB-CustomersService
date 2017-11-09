@@ -1,3 +1,4 @@
+'use strict';
 // Module dependencies
 const   mongoose = require('mongoose'),
         Customer = require('../models/customer'),
